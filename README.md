@@ -26,7 +26,7 @@ Load the javascript to remove the popup and panel
 
 ## Running the demo page
 
-[webroot/demo.php](https://hptsoft.com/wijmo_free_helpers/demo.php)
+<a href="https://hptsoft.com/wijmo_free_helpers/demo.php" target="_blank">Demo</a>
 
 ## License
 
